@@ -2,3 +2,4 @@ rumps==0.4.0
 requests>=2.32
 pyobjc-core>=10.0
 pyobjc-framework-Cocoa>=10.0
+tzdata

@@ -43,7 +43,7 @@ Download `KBOBar.zip` from the [latest release](../../releases/latest) and move 
 
 ```bash
 git clone <repo-url>
-cd kbo_stats
+cd kbobar
 
 # Create and activate the virtual environment using Python 3.10
 python3.10 -m venv .venv
@@ -158,7 +158,7 @@ KIA 3 @ LG 2  [2 8회초]  잠실 18:30  id=20260520KIALG0
 ## Project Structure
 
 ```
-kbo_stats/
+kbobar/
 ├── kbo_bar.py          # rumps menu bar app (entry point)
 ├── kbo_scraper.py      # scraper library (public API: get_today_games)
 ├── requirements.txt    # runtime dependencies
