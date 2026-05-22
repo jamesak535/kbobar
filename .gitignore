@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# py2app build output
+build/
+dist/
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
+
+# Config (contains user preferences)
+~/.kbobar/
+
+# folders
+/test
+/archived
+README_temp.md
