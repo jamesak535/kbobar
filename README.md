@@ -4,6 +4,14 @@ A lightweight macOS menu bar app that displays live KBO baseball scores. Written
 
 ---
 
+<p align="center">
+  <img src="images/Screenshot1.png" height="150" alt="screenshot 1">
+  <img src="images/Screenshot2.png" height="150" alt="screenshot 2">
+  <img src="images/Screenshot3.png" height="150" alt="screenshot 3">
+</p>
+
+---
+
 ## Features
 
 - **Live scores in the menu bar** — shows team names, score, and current inning with top/bottom indicator (▲/▼) for every in-progress game
