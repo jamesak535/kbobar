@@ -11,6 +11,7 @@ OPTIONS = {
         "charset_normalizer",
         "idna",
         "urllib3",
+        "tzdata",
     ],
     "includes": ["kbo_scraper"],
     "plist": {
@@ -18,8 +19,8 @@ OPTIONS = {
         "CFBundleName": "KBOBar",
         "CFBundleDisplayName": "KBO Bar",
         "CFBundleIdentifier": "com.james.kbobar",
-        "CFBundleVersion": "1.0.0",
-        "CFBundleShortVersionString": "1.0.0",
+        "CFBundleVersion": "1.0.1",
+        "CFBundleShortVersionString": "1.0.1",
         "NSHighResolutionCapable": True,
     },
 }
