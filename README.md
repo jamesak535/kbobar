@@ -171,7 +171,7 @@ kbobar/
 ├── kbo_scraper.py      # scraper library (public API: get_today_games)
 ├── requirements.txt    # runtime dependencies
 ├── setup.py            # py2app configuration for .app bundle
-└──  build.sh            # build script: runs py2app, fixes dylib paths, codesigns
+└── build.sh            # build script: runs py2app, fixes dylib paths, codesigns
 ```
 
 
